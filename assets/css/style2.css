@@ -69,9 +69,8 @@ h3 {
 /* sidebar */
 
 .panel-heading{
-	float: right;
 	width: 100%;
-	max-width: 270px;
+	max-width: 300px;
 	font-family: Georgia, Times, "Times New Roman", serif;
   	font-size: 22px;
  	font-weight: 700;
@@ -83,13 +82,12 @@ h3 {
 }
 
 .panel-body {
-  float: right;
   width: 100%;
-  max-width: 270px;
+  max-width: 300px;
   padding: 30px;
   margin-bottom: 20px;
   background: #fff;
-  border: 1px solid #ddd;
+  
 }
 
 /* portfolio page */
@@ -166,3 +164,4 @@ h3,
 .social:last-child {
   margin-right: 0;
 }
+
